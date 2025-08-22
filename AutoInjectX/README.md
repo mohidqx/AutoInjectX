@@ -15,8 +15,8 @@ A powerful and efficient command-line interface (CLI) tool for automated Cross-S
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-    cd YOUR_REPO_NAME
+    git clone https://github.com/mohidqx/AutoInjectX.git
+    cd AutoInjectX
     ```
 
 2.  **Install dependencies:**
